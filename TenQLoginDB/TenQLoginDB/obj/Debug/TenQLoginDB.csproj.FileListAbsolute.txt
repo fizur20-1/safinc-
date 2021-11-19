@@ -1,0 +1,11 @@
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\bin\Debug\TenQLoginDB.exe.config
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\bin\Debug\TenQLoginDB.exe
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\bin\Debug\TenQLoginDB.pdb
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.csproj.AssemblyReference.cache
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.Properties.Resources.resources
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.csproj.GenerateResource.cache
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.csproj.CoreCompileInputs.cache
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.exe
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.pdb
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.lgnForm.resources
+C:\Users\mazid\source\repos\TenQLoginDB\TenQLoginDB\obj\Debug\TenQLoginDB.Dashboard.resources
